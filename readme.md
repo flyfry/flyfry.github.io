@@ -14,3 +14,7 @@
 
 - index.html を追加・編集
 - readme.md の作成
+
+### 2020/05/11
+
+- links の href 要素に'https://'が抜けていたのを修正
